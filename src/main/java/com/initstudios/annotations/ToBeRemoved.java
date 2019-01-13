@@ -9,7 +9,7 @@ import java.lang.annotation.*;
  * @author iBuyMountainDew
  */
 @Documented
-@Retention(RetentionPolicy.RUNTIME)
+@Retention(RetentionPolicy.SOURCE)
 @Target({ElementType.TYPE, ElementType.METHOD, ElementType.FIELD})
 public @interface ToBeRemoved
 {

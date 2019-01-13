@@ -8,7 +8,7 @@ import java.lang.annotation.*;
  * @author iBuyMountainDew
  */
 @Documented
-@Retention(RetentionPolicy.RUNTIME)
+@Retention(RetentionPolicy.SOURCE)
 @Target({ElementType.TYPE, ElementType.FIELD, ElementType.LOCAL_VARIABLE, ElementType.METHOD, ElementType.ANNOTATION_TYPE, ElementType.PACKAGE})
 public @interface DeprecatedSince
 {
