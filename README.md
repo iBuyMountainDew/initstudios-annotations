@@ -1,0 +1,3 @@
+# Init Studios Annotations ![](https://img.shields.io/badge/InitStudios-Official-brightgreen.svg) [![](https://img.shields.io/github/license/iBuyMountainDew/initstudios-annotations.svg)](https://github.com/iBuyMountainDew/initstudios-annotations/blob/master/LICENSE.md) ![https://discord.gg/Sh3y6HK](https://img.shields.io/discord/482004557379928065.svg)
+
+#### These annotations are used in-house by Init Studios to assist with the development of our mods. :D

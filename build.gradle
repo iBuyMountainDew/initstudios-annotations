@@ -2,8 +2,12 @@ plugins {
     id 'java'
 }
 
-group 'com.initstudios.annotations'
-version '1.0.0'
+apply plugin: 'java'
+
+archivesBaseName = 'init-studios-annotations'
+group = 'com.initstudios'
+version = '1.0.0'
+description = 'A few annotations to assist with development. :)'
 
 sourceCompatibility = 1.8
 
